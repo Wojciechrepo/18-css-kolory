@@ -1,0 +1,26 @@
+
+section{
+    background-color:#faebd6;
+    margin-top: 6em;
+    margin-left: 1em;
+}
+
+h1{
+    color: #ff0000;
+    padding-top: 15px;
+    font-size: 30px;
+}
+
+#paragraf1{
+    color: #a42423;
+    font-size: 25px;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+#paragraf2{
+    color: #00008f;
+    font-size: 25px;
+    padding-bottom: 4em;
+}
+
